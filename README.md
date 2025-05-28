@@ -31,10 +31,10 @@ dN₂/dt = r₂·N₂·(1 - N₂/K₂ + b₂₁·N₁/K₂)
 ## 📊 Contoh Hasil
 
 ### Dinamika Populasi
-![Populasi terhadap waktu](path/to/time_plot.png)
+![Populasi terhadap waktu](plots/time_plot.png)
 
 ### Potret Fasa
-![Phase portrait](path/to/phase_plot.png)
+![Phase portrait](plots/phase_plot.png)
 
 > Titik tetap stabil ditemukan pada **[1195.87, 979.38]** dengan parameter default.
 
